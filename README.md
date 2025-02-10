@@ -1,5 +1,9 @@
 ![Image](https://github.com/user-attachments/assets/2ae3b9e8-6d7b-4006-8192-74b80147c73d)
 
+### TL;DR 🏊‍♂🚀
+
+Picking a medley relay isn’t just about speed—it’s about strategy. This project automates lineup selection using Excel Solver, optimizing assignments for the fastest possible relay.
+
 # **🏊 The Art & Science of Medley Relay Optimization 🏆**
 
 ## **The Challenge: Selecting the Best Relay Lineup 🏅**
@@ -119,10 +123,10 @@ Update the table already built in the file where:
 ## **🚀 Setting Up Excel Solver**
 Before using Solver, it needs to be enabled:
 
-✅ Open Excel and go to **File → Options → Add-ins**.  
-✅ In the **Manage** box, select **Excel Add-ins** and click **Go**.  
-✅ Check **Solver Add-in** and click **OK**.  
-✅ Solver will now appear under **Data → Solver**.  
+- Open Excel and go to **File → Options → Add-ins**.  
+ In the **Manage** box, select **Excel Add-ins** and click **Go**.  
+- Check **Solver Add-in** and click **OK**.  
+- Solver will now appear under **Data → Solver**.  
 
 ### **🏆 Conclusion: Why This Approach Works**
 By implementing this system in Excel, coaches can:  
