@@ -1,0 +1,36 @@
+﻿,50 Y Back,50 Y Breast,50 Y Fly,50 Y Free,50 Y Back,50 Y Breast,50 Y Fly,50 Y Free,,
+Swimmer 1, 60.00 , 60.00 , 60.00 , 60.00 ,1,0,0,0,1,=SUM(F2:I2)
+Swimmer 2, 60.00 , 60.00 , 60.00 , 60.00 ,0,1,0,0,1,=SUM(F3:I3)
+Swimmer 3, 60.00 , 60.00 , 60.00 , 60.00 ,0,0,1,0,1,=SUM(F4:I4)
+Swimmer 4, 60.00 , 60.00 , 60.00 , 60.00 ,0,0,0,1,1,=SUM(F5:I5)
+Swimmer 5, 60.00 , 60.00 , 60.00 , 60.00 ,0,0,0,0,0,=SUM(F6:I6)
+Swimmer 6, 60.00 , 60.00 , 60.00 , 60.00 ,0,0,0,0,0,=SUM(F7:I7)
+Swimmer 7, 60.00 , 60.00 , 60.00 , 60.00 ,0,0,0,0,0,=SUM(F8:I8)
+Swimmer 8, 60.00 , 60.00 , 60.00 , 60.00 ,0,0,0,0,0,=SUM(F9:I9)
+,,,,,1,1,1,1,240,"=SUMPRODUCT(B2:E9,F2:I9)"
+,,,,,,=SUM(G2:G9),,=SUM(I2:I9),^,
+,,,,,=SUM(F2:F9),,=SUM(H2:H9),,time in seconds,
+,,,,,,,,,,
+,,,,,,,,,,
+SOLVER STEPS,,,,,,,,,,
+,,,,,,,,,,
+Objective:,Minimize J7,,,,,,,,,
+Variables:,F2 : I9,,,,,,,,,
+Constraints:,F2 : I9,<=,1,,,,,,,
+,F2 : I9 ,integer,,,,,,,,
+,F2 : I9,>=,0,,,,,,,
+,F10 : I10,=,1,,,,,,,
+,J2 : J9,<=,1,,,,,,,
+No other changes needed,,,,,,,,,,
+Hit Play > button top right corner,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+To add Solver to Excel:,,,,,,,,,,
+,,,,,,,,,,
+1. Select File,,,,,,,,,,
+2. Select Options,,,,,,,,,,
+3. Select Add-Ins,,,,,,,,,,
+4. Select Excel Add-ins in the Manage box,,,,,,,,,,
+5. Select Go,,,,,,,,,,
+6. Select the Solver Add-in check box,,,,,,,,,,
+7. Select OK,,,,,,,,,,
