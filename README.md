@@ -145,5 +145,7 @@ By implementing this system in Excel, coaches can:
 ✔ **Automate relay selection** without manual input.  
 ✔ **Reduce human error**, ensuring the best lineup.  
  
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=autumnmarin.Medley_Relay)
+
 
 
