@@ -2,7 +2,7 @@
 
 ### TL;DR 🏊‍♂🚀
 
-Picking a medley relay isn’t just about speed—it’s about strategy. This project automates lineup selection using Excel Solver, optimizing assignments for the fastest possible relay.
+Picking a medley relay can be tricky. This project automates lineup selection using Excel Solver, optimizing assignments for the fastest possible relay.
 
 # **🏊 The Art & Science of Medley Relay Optimization 🏆**
 
