@@ -398,3 +398,5 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+medley_relay_calc.csv
+medley_relay_calc.xlsx
