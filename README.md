@@ -1,5 +1,7 @@
 ![Image](https://github.com/user-attachments/assets/2ae3b9e8-6d7b-4006-8192-74b80147c73d)
 
+
+
 ### TL;DR 🏊‍♂🚀
 
 Picking a medley relay can be tricky. This project automates lineup selection using Excel Solver, optimizing assignments for the fastest possible relay.
@@ -145,7 +147,9 @@ By implementing this system in Excel, coaches can:
 ✔ **Automate relay selection** without manual input.  
 ✔ **Reduce human error**, ensuring the best lineup.  
  
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=yourusername.Medley_Relay)
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=autumnmarin.Medley_Relay)
+
+
 
 
 
