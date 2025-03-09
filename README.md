@@ -124,7 +124,7 @@ Data:
 
 The rows and columns for the binary (0,1) cells have sum formulas AND there is a SumProduct formula for the **objective cell.** The formula text is explicitly printed.
 
-### **⚙️ Step 3: Running Solver**
+### **⚙️ Step 2: Running Solver**
 - Open **Excel Solver** (Data → Solver).  
 - Set the **Objective cell**, J10, to **minimize** total relay time.
 - Set the **Variables** (F2: I9)
